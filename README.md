@@ -28,7 +28,7 @@ cd ./demo && python demo.py
 
 ### Test pretrained model
 
-We provide the model trained on YFCC100M and SUN3D. Run the test script to get similar results in our paper (the generated putative matches can be downloaded from [here](https://drive.google.com/drive/folders/1utkm7K1w9vy02HVzQ6PFf3k5OXUDkHdf?usp=drive_link)).
+We provide the model trained on YFCC100M and SUN3D. Run the test script to get results (the generated putative matches can be downloaded from [here](https://drive.google.com/drive/folders/1utkm7K1w9vy02HVzQ6PFf3k5OXUDkHdf?usp=drive_link)).
 
 ```bash
 cd ./test 
