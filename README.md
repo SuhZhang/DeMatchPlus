@@ -17,7 +17,7 @@ For a quick start, clone the repo and download the pretrained model.
 git clone https://github.com/SuhZhang/DeMatchPlus 
 cd DeMatchPlus 
 ```
-Then download the pretrained models from [here](https://drive.google.com/drive/folders/1KpUOPwlVjZlzUs9P2uXgyGvByewoTLLt?usp=drive_link).
+Then download the pretrained models from [here](https://drive.google.com/drive/folders/1OK3jq9SM5iUrK_rOebwi5FjWXs99tr3k?usp=drive_link).
 
 Then run the feature matching with demo.
 
@@ -35,3 +35,4 @@ cd ./test
 python test.py
 ```
 You can change the default settings for test in `./test/config.py`.
+
